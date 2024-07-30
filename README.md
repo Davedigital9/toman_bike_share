@@ -45,7 +45,7 @@ Create a dashboard that shows the required performance metrics of the business a
 7. Once our dashboard had been created, designed, and formatted to the specification of our client, we can use the visualization to view some of the metrics from their requirements.
 8. Further analysis and calcualtion was done from the dashboard to determine whether to increase prices or not in the coming year.
 
-## Discovery
+## DISCOVERY
 We discovered that
 1. **HOURLY REVENUE ANALYSIS**: The hourly revenue starts up high and reduces during the course of the day. After midday, there is a slight progression of prices before peaking at the early hours of the eveing and dropping back down just before close of work.
 2. **PROFIT & REVENUE TRENDS**: From the KPI over Time chart, we can see a visible trend in profit and revenue over the months of the year. There is a noticeable increase in revenue and profit after February that continues to rise till September. This rise stops in September and we notice a drop in October that continues till the end of the year. The most profitable months are March to September.

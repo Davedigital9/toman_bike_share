@@ -2,8 +2,8 @@
 Toman Bike Shop is a leading bike rental company dedicated to providing high-quality bicycles for rent. We offer a wide selection of bikes suitable for various terrains and cycling preferences. With a focus on excellent customer service and well-maintained equipment, Toman Bike Shop ensures a smooth and enjoyable riding experience for all our customers.
 
 ## OBJECTIVE 
-- To build a dashboard to display key performance metrics of the business over 2021 abd 2022
-- To proive a recommendation on whether to increase their prices in 2023 or not
+- To build a dashboard to display key performance metrics of the business over 2021 and 2022
+- To provide a recommendation on whether to increase their prices in 2023 or not
 
 ## REQUIREMENTS
 Develop a dashboard showing the key performance metrics
@@ -28,7 +28,7 @@ Create a dashboard that shows the required performance metrics of the business a
    - Identify trends and patterns in the data.
 
 3. **Dashboard Development:**
-   - Build a dashboard to display key performance metrics .
+   - Build a dashboard to display key performance metrics.
 
 4. **Recommendation:**
    - Based on the analysis, provide a recommendation on price adjustments for 2023.

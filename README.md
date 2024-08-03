@@ -54,6 +54,8 @@ We discovered that
 5. **OTHER METRICS**: We calculated a 25% price increase in 2022 from 2021 and a 65% increase in demand. By calculation, our price elasticity is 2.6 (Price elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its price. It is calculated as the percentage change in quantity demanded divided by the percentage change in price.
 If the absolute value of the elasticity is greater than 1, the demand is considered elastic, meaning consumers are highly responsive to price changes. If the value is less than 1, demand is inelastic, indicating consumers are less responsive to price changes.).
 
+
+![toman visuals](https://github.com/user-attachments/assets/671608b9-1cf3-490c-971a-c55ced396a1d)
 ## RECOMMENDATION
 After all necessary analysis, visualization, and calculation have been done, we can move one to our recommendation to the company. 
 Considering the significant price increase last year that saw a equal increase in demand, it could be said that another increase in the coming year would also see an increase in demand. Although, this price increase has to be modest to avoid hitting a price ceiling resulting in the drop of demand. With this in mind, a 5-10% increase could be implemented to tests the market's reaction without risk of losing customers. 
